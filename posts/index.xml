@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cerna.ca</title>
-    <link>/</link>
-    <description>Recent content on cerna.ca</description>
+    <title>Posts on cerna.ca</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on cerna.ca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 20:24:37 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 19:11:09 -0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 21 Feb 2019 20:24:37 -0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description> Some of my current interests  Linux Kubernetes Go Devops  </description>
-    </item>
     
     <item>
       <title>Hello World</title>
